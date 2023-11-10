@@ -1,2 +1,4 @@
 # capella-eval
-Private repository for NASA CSDAP evaluation project
+Repository for NASA CSDAP evaluation
+
+[Capella API Docs](https://docs.capellaspace.com/) 
