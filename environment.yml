@@ -1,0 +1,18 @@
+name: capella
+channels:
+  - conda-forge
+dependencies:
+  - capella-console-client
+  - folium
+  - geopandas
+  - httpx
+  - hvplot
+  - ipykernel
+  - matplotlib-base
+  - numpy
+  - python
+  - pystac
+  - rasterio
+  - requests
+  - rioxarray
+  - odc-stac
